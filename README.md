@@ -30,4 +30,4 @@ dashboard.png → Preview image
 To demonstrate data analysis, visualization, and storytelling skills using Excel.
 👤 Author
 
-Abdirahman Dek
+Abdirahman Jama
