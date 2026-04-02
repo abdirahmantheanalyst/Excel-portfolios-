@@ -6,8 +6,11 @@ This project presents an interactive sales dashboard analyzing annual performanc
 
 🔍 Key Insights
 📈 Total Quantity Sold: 8,325 units
+
 🍪 Cookies generated the highest sales (44%)
+
 🏙️ Boston contributed the highest profit (40%)
+
 🧑‍💼 Top Salesperson: Marc Williams
 
 📊 Dashboard Features
